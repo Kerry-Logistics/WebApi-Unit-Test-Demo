@@ -1,0 +1,11 @@
+@localVariable = test
+
+###
+GET {{host}}/weatherforecast/
+Accept: application/json
+###
+
+###
+PATCH {{host}}/weatherforecast?temp=-1
+Accept: application/json
+###
