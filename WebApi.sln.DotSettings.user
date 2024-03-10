@@ -1,0 +1,10 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/CreateUnitTestDialog/TestProjectMapping/=1824884E_002DA09F_002D4C79_002DBA44_002D843B293E40A2/@EntryIndexedValue">WebApi.Tests</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/CreateUnitTestDialog/TestTemplateMapping/=xUnit/@EntryIndexedValue">33ff99d8-b1ad-4ed5-a4fd-376b97c2c841</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=186f1e2b_002D8f32_002D4d55_002D8eab_002D75e182ed6335/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GetWeatherForecast" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::1EF4BA76-39B0-442F-A147-9CBA0A9F3E57::net8.0::WebApi.Tests.Controllers.WeatherForecastControllerTest.GetWeatherForecast&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::1EF4BA76-39B0-442F-A147-9CBA0A9F3E57::net8.0::WebApi.Tests.Controllers.WeatherForecastControllerTest.SetWeatherForecast_FailedCase&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::1EF4BA76-39B0-442F-A147-9CBA0A9F3E57::net8.0::WebApi.Tests.Controllers.WeatherForecastControllerTest.SetWeatherForecast_SuccessCase&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
